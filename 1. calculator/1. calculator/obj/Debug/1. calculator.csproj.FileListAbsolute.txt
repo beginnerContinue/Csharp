@@ -1,0 +1,10 @@
+C:\Users\karle\Documents\c#\1. calculator\1. calculator\bin\Debug\_1.calculator.exe.config
+C:\Users\karle\Documents\c#\1. calculator\1. calculator\bin\Debug\_1.calculator.exe
+C:\Users\karle\Documents\c#\1. calculator\1. calculator\bin\Debug\_1.calculator.pdb
+C:\Users\karle\Documents\c#\1. calculator\1. calculator\obj\Debug\1. calculator.csproj.AssemblyReference.cache
+C:\Users\karle\Documents\c#\1. calculator\1. calculator\obj\Debug\_1.calculator.Form1.resources
+C:\Users\karle\Documents\c#\1. calculator\1. calculator\obj\Debug\_1.calculator.Properties.Resources.resources
+C:\Users\karle\Documents\c#\1. calculator\1. calculator\obj\Debug\1. calculator.csproj.GenerateResource.cache
+C:\Users\karle\Documents\c#\1. calculator\1. calculator\obj\Debug\1. calculator.csproj.CoreCompileInputs.cache
+C:\Users\karle\Documents\c#\1. calculator\1. calculator\obj\Debug\_1.calculator.exe
+C:\Users\karle\Documents\c#\1. calculator\1. calculator\obj\Debug\_1.calculator.pdb
